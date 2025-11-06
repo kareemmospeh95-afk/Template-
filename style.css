@@ -156,7 +156,7 @@ align-items: center;
 }
 .landing .text h1{
     font-size: 50px;
-    color: red;
+    color: var(--main-color);
     margin: 0;
 }
 @media (max-width: 768px){

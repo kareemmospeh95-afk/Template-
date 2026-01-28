@@ -230,7 +230,7 @@ align-items: center;
 }
 @media (max-width: 375px) {
     .main-title h1{
-        font-size: 80px;
+        font-size: 40px;
     }
     .main-title p{
     margin-top: -15px;
